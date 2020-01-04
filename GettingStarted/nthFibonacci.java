@@ -1,5 +1,6 @@
 public class nthFibonacci
 {
+    //find nth fibonacci
     public static void main(String args[])
     {
         int n =6;

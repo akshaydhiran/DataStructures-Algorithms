@@ -1,5 +1,6 @@
 public class gcdOfTwoNumbers
 {
+    //find gcd of two numbers
     public static void main(String args[])
     {
         int n1= 18;

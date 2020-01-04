@@ -1,5 +1,8 @@
 public class isPrime
 {
+    //check if number is prime or not
+
+
     //basic approach 
     public static void basicApproach(int number,int counter)
     {
