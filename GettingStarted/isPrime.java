@@ -54,6 +54,6 @@ public class isPrime
         basicApproach(number, counter);
         goodApproach(number, counter);
         bestApproach(number, counter);
-
+        
     }
 }
